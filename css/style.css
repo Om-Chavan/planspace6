@@ -401,12 +401,10 @@ h2 {
 
 .about .img::after {
   content: '';
-  position: absolute;
-  width: 600px;
-  height: 650px;
-  /* border: 10px solid skyblue; */
-  /* left: 13.5%; */
-  /* margin-top: 30px; */
+  /* position: absolute; */
+  /* width: 600px;
+  height: 650px; */
+  
 }
 
 h5 {
